@@ -154,19 +154,19 @@ verif::after {
     transform: translateX(-1200px);
 }
 
-.insta-carousel > input:nth-of-type(4):checked ~ .insta-carousel-window .insta-carousel-track {
+.insta-carousel > input:nth-of-type(5):checked ~ .insta-carousel-window .insta-carousel-track {
     transform: translateX(-1600px);
 }
 
-.insta-carousel > input:nth-of-type(4):checked ~ .insta-carousel-window .insta-carousel-track {
+.insta-carousel > input:nth-of-type(6):checked ~ .insta-carousel-window .insta-carousel-track {
     transform: translateX(-2000px);
 }
 
-.insta-carousel > input:nth-of-type(4):checked ~ .insta-carousel-window .insta-carousel-track {
+.insta-carousel > input:nth-of-type(7):checked ~ .insta-carousel-window .insta-carousel-track {
     transform: translateX(-1400px);
 }
 
-.insta-carousel > input:nth-of-type(4):checked ~ .insta-carousel-window .insta-carousel-track {
+.insta-carousel > input:nth-of-type(8):checked ~ .insta-carousel-window .insta-carousel-track {
     transform: translateX(-1800px);
 }
 
