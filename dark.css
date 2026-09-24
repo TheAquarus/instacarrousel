@@ -131,9 +131,9 @@ verif::after {
 .insta-carousel-track img {
     display: block;
     width: 400px;
-    height: 400px;
+    height: auto;
     flex: 0 0 400px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 /* DÉFILEMENT */
