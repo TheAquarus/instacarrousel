@@ -131,7 +131,7 @@ verif::after {
 .insta-carousel-track img {
     display: block;
     width: auto;
-    height: 400px;
+    height: auto;
     flex: 0 0 400px;
 }
 
